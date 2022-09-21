@@ -14,11 +14,5 @@
 
 *do not delete or ammend without the owner authorisation
 ### Link to the project
+*https://amwau.github.io/Moringa/
 
-*
-
-
-
-### Copyright and license Information
-
-*Do not sell my personal information. All rights reserved.
