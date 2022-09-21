@@ -2,7 +2,6 @@
 *Independent project -personal portfolio
 
 ## Author Name
-
 *Annastacia Mwau
 
 ## Description
