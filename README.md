@@ -11,7 +11,6 @@
 *Click on the link below it will direct you to a browser.
 
 ### Project Setup Instructions
-
 *do not delete or ammend without the owner authorisation
 ### Link to the project
 *https://amwau.github.io/Moringa/
